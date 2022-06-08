@@ -1,7 +1,10 @@
-# vincentkims49
-## Hey 👋, This is Vincent Kimanzi
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+</div>  
+  
+## This is Vincent Kimanzi
 [![Gmail Badge](https://img.shields.io/badge/-vincentkims49@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vincentkims49@gmail.com)](mailto:vincentkims49@gmail.com) [![Github Badge](https://img.shields.io/badge/-vincentkims49-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vincentkims49/)](https://www.github.com/vincentkims49/) <p align='left'>Hi there, I'm Vincent 👋
-Website Twitter Follow
+
 
 I'm a Developer, and an Author!!
 🔭 Check out my Profile
