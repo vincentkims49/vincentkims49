@@ -9,7 +9,7 @@
 [![Github Badge](https://img.shields.io/badge/-vincentkims49-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vincentkims49/)](https://www.github.com/vincentkims49/)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vincentkims49 alt=vincentkims49 /> </p>
 
-
+<div align="left">
 <p align='left'>
   Hi there, I'm Vincent 👋
 I'm a Developer, and an Author!!
@@ -18,6 +18,7 @@ I'm a Developer, and an Author!!
 👯 I’m looking to collaborate with other content creators
 🥅 2022 Goals: Learn more about web3
 ⚡ Fun fact: I love to play games</p>
+</div> 
 
 <!-- ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=vincentkims49&show_icons=true&include_all_commits=true)](https://github.com/vincentkims49/github-readme-stats)
@@ -33,7 +34,13 @@ I'm a Developer, and an Author!!
 </p>
 </details>
 
+<details>
+<summary><samp>&#9776;</samp> See me code <i>(click to expand)</i> </summary>
+<p align="center">
+<img src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 20 height: 30" />
 
+</p>
+</details>
 
 <div align="center">
 <h3> Connect with me</h3> 
@@ -42,3 +49,4 @@ I'm a Developer, and an Author!!
     <a href="https://www.instagram.com/vincentkims" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="mailto:vincentkims49@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
+
