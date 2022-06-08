@@ -18,6 +18,26 @@ I'm a Developer, and an Author!!
 🥅 2022 Goals: Learn more about web3
 ⚡ Fun fact: I love to play games</p>
 
-## Some of my Github Stats
+<!-- ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=vincentkims49&show_icons=true&include_all_commits=true)](https://github.com/vincentkims49/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentkims49&layout=compact)](https://github.com/vincentkims49/github-readme-stats)
+--!>
+
+<details>
+<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+<p align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vincentkims49&theme=jolly&show_icons=true" alt="vincent's Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=vincentkims49&&theme=jolly&show_icons=true" alt="vincentkims49"/>
+
+</p>
+</details>
+
+
+
+<div align="center">
+<h3> Connect with me</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/vincentkims" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/vincentkims" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="mailto:vincentkims49@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p>  
