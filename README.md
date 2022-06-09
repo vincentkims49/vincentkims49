@@ -26,7 +26,7 @@ I'm a Developer, and an Author!!
 --!>
 
 <details>
-<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
+<summary> Click for GitHub Stats  </summary>
 <p align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vincentkims49&theme=jolly&show_icons=true" alt="vincent's Github readme stats">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=vincentkims49&&theme=jolly&show_icons=true" alt="vincentkims49"/>
@@ -35,10 +35,19 @@ I'm a Developer, and an Author!!
 </details>
 
 <details>
-<summary><samp>&#9776;</samp> See me code <i>(click to expand)</i> </summary>
+<summary> See me code  </summary>
 <p align="center">
 <img src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 20 height: 30" />
 
+</p>
+</details>
+
+<details>
+<summary> Just for fun </summary>
+<p align="center">
+
+<h1> Random meme </h1>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 </p>
 </details>
 
