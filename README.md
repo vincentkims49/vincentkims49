@@ -20,6 +20,8 @@ I'm a Developer, and an Author!!
 ⚡ Fun fact: I love to play games</p>
 </div> 
 
+![gitartwork](gitartwork.svg)
+
 <!-- ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=vincentkims49&show_icons=true&include_all_commits=true)](https://github.com/vincentkims49/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentkims49&layout=compact)](https://github.com/vincentkims49/github-readme-stats)
