@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/gavinmasese/vincentkims49/blob/main/hello%20world.gif" align="center" style="width: 100%" />
-</div>  
+
 <br>
 <h1 align="center"> This is  Vincent Kimanzi</h1> 
 <br>
