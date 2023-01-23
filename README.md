@@ -9,47 +9,36 @@
 
 <div align="left">
 <p align='left'>
-  Hi there, I'm Vincent 👋
-I'm a Developer, and an Author!!
-🔭 Check out my Profile
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2022 Goals: Learn more about web3
-⚡ Fun fact: I love to play games</p>
+  <p>Hi there, I'm <b>Vincent</b> 👋I'm a Developer, and an Author!!</p>
+<p>🔭 Check out my Profile</p>
+<p>🌱 I’m currently learning everything 🤣</p>
+<p>👯 I’m looking to collaborate with other content creators</p>
+<p>🥅 2023 Goals: Learn more about web3</p>
+<p>⚡ Fun fact: I love to play games</p>
 </div> 
 
 ![gitartwork](gitartwork.svg)
 
-<!-- ## Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=vincentkims49&show_icons=true&include_all_commits=true)](https://github.com/vincentkims49/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentkims49&layout=compact)](https://github.com/vincentkims49/github-readme-stats)
---!>
 
-<details>
-<summary> Click for GitHub Stats  </summary>
+
+
+<h1> Git stats </h1>
 <p align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vincentkims49&theme=jolly&show_icons=true" alt="vincent's Github readme stats">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=vincentkims49&&theme=jolly&show_icons=true" alt="vincentkims49"/>
 
 </p>
-</details>
 
-<details>
-<summary> See me code  </summary>
-<p align="center">
-<img src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 20 height: 30" />
+
+
+<h1> See me code  </h1>
+<p align="left">
+<img height="200em"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 5 height: 10" />
 
 </p>
-</details>
 
-<details>
-<summary> Just for fun </summary>
-<p align="center">
 
-<h1> Random meme </h1>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-</p>
-</details>
+
 
 <div align="center">
 <h3> Connect with me</h3> 
