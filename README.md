@@ -10,7 +10,7 @@
 <div align="left">
 <p align='left'>
   <p>Hi there, I'm <b>Vincent</b> 👋I'm a Developer, and an Author!!</p>
-<p>🔭 Check out my Profile</p>
+<p>🔭 Check out my Profile https://www.section.io/engineering-education/authors/vincent-kimanzi/</p>
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other content creators</p>
 <p>🥅 2023 Goals: Learn more about web3</p>
