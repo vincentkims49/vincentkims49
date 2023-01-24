@@ -1,7 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Vincent+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Vincent and Welcome to my Profile! animated typed out" width="100%"/>
 
-<br>
-<h1 align="center"> This is  Vincent Kimanzi</h1> 
-<br>
 
 [![Gmail Badge](https://img.shields.io/badge/-vincentkims49@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vincentkims49@gmail.com)](mailto:vincentkims49@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-vincentkims49-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vincentkims49/)](https://www.github.com/vincentkims49/)
@@ -17,17 +15,18 @@
 <p>⚡ Fun fact: I love to play games</p>
 </div> 
 
-![gitartwork](gitartwork.svg)
 
+<div align="center">
+  <h2> <strong> 🏆 My Github Stats </strong><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=vincentkims49&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=vincentkims49&theme=radical" height="150" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vincentkims49&theme=jolly&show_icons=true" height="150" alt="stats graph" />
+</div> <br>
 
+![vincent's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=vincent's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
 
+</br>
 
-<h1> Git stats </h1>
-<p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vincentkims49&theme=jolly&show_icons=true" alt="vincent's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=vincentkims49&&theme=jolly&show_icons=true" alt="vincentkims49"/>
-
-</p>
 
 
 
@@ -36,6 +35,8 @@
 <img height="200em"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 5 height: 10" />
 
 </p>
+
+![gitartwork](gitartwork.svg)
 
 
 
