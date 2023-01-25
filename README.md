@@ -19,7 +19,6 @@
   <h2> <strong> 🏆 My Github Stats </strong><br>
   <img src="https://github-profile-trophy.vercel.app/?username=vincentkims49&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=vincentkims49&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vincentkims49&theme=jolly&show_icons=true" height="150" alt="stats graph" />
 </div> <br>
 
 ![vincent's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=vincent's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
