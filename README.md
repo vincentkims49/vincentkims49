@@ -12,18 +12,10 @@
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other content creators</p>
 <p>🥅 2023 Goals: Learn more about Flutter</p>
-<p>⚡ Fun fact: I love to play games</p>
+<p>⚡ Fun fact: I love playing games</p>
 
 
-<div align="center">
-  <h2> <strong> 🏆 My Github Stats </strong><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=vincentkims49&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=vincentkims49&theme=radical" height="150" alt="streaks graph" />
-</div> <br>
 
-![vincent's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=godkingjay&custom_title=vincent's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
-
-</br>
 
 
 
@@ -31,12 +23,9 @@
 <h1> See me code  </h1>
 <p align="left">
 <img height="200em"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 5 height: 10" />
-
+<a href=#><img src="contributions.svg"></a>
 </p>
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
 
 
 
