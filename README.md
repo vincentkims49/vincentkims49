@@ -12,7 +12,6 @@
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other content creators</p>
 <p>🥅 2023 Goals: Learn more about Flutter</p>
-<p>⚡ Fun fact: I love playing games</p>
 
 
 
