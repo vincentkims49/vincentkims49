@@ -11,7 +11,6 @@
 <p>🔭 Check out my Profile https://www.section.io/engineering-education/authors/vincent-kimanzi/</p>
 <p>🌱 I’m currently learning everything 🤣</p>
 <p>👯 I’m looking to collaborate with other content creators</p>
-<p>🥅 2023 Goals: Learn more about Flutter</p>
 
 
 
