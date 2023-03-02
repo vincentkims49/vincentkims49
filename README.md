@@ -5,15 +5,6 @@
 [![Github Badge](https://img.shields.io/badge/-vincentkims49-grey?style=flat&logo=github&logoColor=white&link=https://github.com/vincentkims49/)](https://www.github.com/vincentkims49/)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vincentkims49 alt=vincentkims49 /> </p>
 
-<div align="left">
-<p align='left'>
-  <p>Hi there, I'm <b>Vincent</b> 👋I'm a Developer, and an Author!</p>
-<p>🔭 Check out my Profile https://www.section.io/engineering-education/authors/vincent-kimanzi/</p>
-<p>🌱 I’m currently learning everything 🤣</p>
-<p>👯 I’m looking to collaborate with other content creators</p>
-
-
-
 
 
 
