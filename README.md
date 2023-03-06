@@ -9,7 +9,7 @@
 
 
 
-<h1> See me code  </h1>
+<h1> See me  </h1>
 <p align="left">
 <img height="200em"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 5 height: 10" />
 <a href=#><img src="contributions.svg"></a>
