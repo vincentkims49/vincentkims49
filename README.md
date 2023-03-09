@@ -6,13 +6,37 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vincentkims49 alt=vincentkims49 /> </p>
 
 
+> *Hey, hey,cut me some slack. I've got a wife and a kid at home<br>
+> 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
+> Maes Hughes*
+
+```dart
+name: Vincent Kimanzi
+located_in: Nairobi, Kenya
+job: Student
+education: Meru university of Science and Technology
+
+fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
+hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
+```
+
+## Contributed technical articles 
+- [Routing with React Navigation and Nesting Navigators in React Native](https://www.section.io/engineering-education/routing-with-react-navigation-and-nesting-navigators-in-react-native/)
+- [Feed-forward and Recurrent Neural Networks Python Implementation](https://www.section.io/engineering-education/feedforward-and-recurrent-neural-networks-python-implementation/)
+- [Creating ChatBot Using Natural Language Processing in Python](https://www.section.io/engineering-education/creating-chatbot-using-natural-language-processing-in-python/)
+- [Using Service Classes to Design an Authentication API in Flutter](https://www.section.io/engineering-education/service-classes-to-design-authentication-api/)
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+-->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&align=right&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
 
 
 
-<h1> See me  code</h1>
-<p align="left">
-<img height="200em"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center" style="width: 5 height: 10" />
-<a href=#><img src="contributions.svg"></a>
+<p align="center">
+
+<img height="100em"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center"  />
+
 </p>
 
 
