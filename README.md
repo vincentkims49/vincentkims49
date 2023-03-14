@@ -6,7 +6,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=vincentkims49 alt=vincentkims49 /> </p>
 
 
-> *Hey, hey,cut me some slack. I've got a wife and a kid at home<br>
+> *Hey, hey,cut me some slack. I've got a wife and a kid at home.<br>
 > 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
 > Maes Hughes*
 
