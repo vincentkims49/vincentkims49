@@ -14,7 +14,6 @@
 name: Vincent Kimanzi
 located_in: Nairobi, Kenya
 job: Student
-education: "Meru university of Science and Technology"
 
 fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
 hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
