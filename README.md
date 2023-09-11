@@ -10,28 +10,7 @@
 > 헤이, 이봐, 나 좀 여유를 잘라. 집에 아내와 아이가 있어요<br>
 > Maes Hughes*
 
-```dart
-name: Vincent Kimanzi
-located_in: Nairobi, Kenya
-job: Student
-skills: [
-"Programming Languages: Flutter, JavaScript , Python, Ruby, PHP, Java, C#",
-"Front-end Development: HTML5, CSS3, JavaScript Frameworks (React.js, Angular, Vue.js)",
-"Back-end Development: Node.js, Express.js, Django, Ruby on Rails, Laravel, Spring Boot, ASP.NET Core",
-"Databases: MongoDB, MySQL, PostgreSQL, Oracle, SQLite",
-"Version Control: Git, GitHub, GitLab, Bitbucket",
-"Cloud Technologies: AWS, Azure, Google Cloud Platform",
-"Deployment and DevOps: Docker, Kubernetes, Serverless Architecture, CI/CD",
-"Testing: Unit Testing, Integration Testing, Test-Driven Development (TDD), Automated Testing",
-"Security and Authentication: Web Application Security, OAuth, JWT",
-"Front-end Tools and Libraries: Webpack, Babel, SASS/LESS, Redux",
-"Agile Development: Scrum, Kanban",
-"Problem-solving and Analytical Skills",
-"Strong Communication and Collaboration Abilities"]
 
-fields_of_interests: ["Mobile app development", "Web development", "Full stack development", "Software engineering"]
-hobbies: ["Basketball", "Anime", "Competitive Gaming", "IoT"]
-```
 
 ## Contributed technical articles 
 - [Routing with React Navigation and Nesting Navigators in React Native](https://www.section.io/engineering-education/routing-with-react-navigation-and-nesting-navigators-in-react-native/)
