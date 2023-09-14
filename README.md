@@ -21,13 +21,11 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&bar_color=860797&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ish7amg4miducijsfwuonhghvu&cover_image=true&theme=default&align=right&bar_color=860797&bar_color_cover=true)](https://github.com/gavinmasese)
-
 
 
 <p align="center">
 
-<img height="100em"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center"  />
+<img height="100em" width="200"   src="https://github.com/gavinmasese/vincentkims49/blob/main/code.gif" align="center"  />
 
 </p>
 
